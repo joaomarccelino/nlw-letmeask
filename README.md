@@ -1,4 +1,4 @@
-<h1 align="center">Fit 30</h1>
+<h1 align="center">Letmeask</h1>
 
 <p align="center">Projeto desenvolvido durante a Next Level Week Together organizado pela Rocketseat</p>
 
